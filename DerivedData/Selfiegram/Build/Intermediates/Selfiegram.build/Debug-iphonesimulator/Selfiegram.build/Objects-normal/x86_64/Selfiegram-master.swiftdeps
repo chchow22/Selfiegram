@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "828b1c36cb0f3c8755b39f08b69465e2"
+build_time: [548463935, 813580000]
+inputs:
+  "/Users/chrischow/Documents/UMich 2/Summer 2017/Lighthouse/Selfiegram/Selfiegram/ViewController.swift": [548463932, 0]
+  "/Users/chrischow/Documents/UMich 2/Summer 2017/Lighthouse/Selfiegram/Selfiegram/AppDelegate.swift": [548463932, 0]
